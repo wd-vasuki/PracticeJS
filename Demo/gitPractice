@@ -1,0 +1,48 @@
+Naukri 
+
+Linkedin 
+Resume 
+Job Application Site
+
+
+
+1. Create Repo
+2. Leaning  commit - Remote (NET)
+
+
+Install GIT 
+
+1. Clone Project from Remote in our local git clone https://github.com/wd-vasuki/portfolio.git
+
+
+
+
+
+
+pwd - current Path
+ls:  to list all files and folders
+cd: change directory 
+cd ../(to go one step back)
+cd fileName 
+
+
+git init  - to initialise git
+git  status
+
+
+You have done some changes in project 
+Git status : it will some modified and added /deleted files
+
+Pussing code in remote
+1. Add file before commit - git add <file_name> , git add .
+2.  then you commit - git commit -m "Kutaupdaing better commit -3jashas"
+3. Push code  - git push origin main (it will push only committed files)  git push origin main main : branch name origin : link name  git remote -v
+
+origin  https://github.com/wd-vasuki/portfolio.git (fetch)
+origin  https://github.com/wd-vasuki/portfolio.git (push) 
+Creating new branch in local Machine : git checkout -b newRakesh
+Switch to different branch: git checkout newRakesh
+
+git log - auditiing
+
+git pull 
